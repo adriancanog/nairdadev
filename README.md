@@ -8,5 +8,7 @@ Gracias!**
 ## Listado De Repositorios:
 
 **Curso React Actualización a Hooks:**
-01- [Counter-App](https://github.com/nairdadev/01-CR-Counter-App)
-02- [Gif-Expert-App](https://github.com/nairdadev/02-CR-Gif-Expert-App)
+
+ 1.  [01-CR-Counter-App](https://github.com/nairdadev/01-CR-Counter-App) 
+ 2.  [02-CR-Gif-Expert-App](https://github.com/nairdadev/02-CR-Gif-Expert-App) 
+
