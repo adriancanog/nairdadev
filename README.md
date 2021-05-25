@@ -1,4 +1,12 @@
- 
  ## Bienvenido/a
-**Hola, ¿cómo estás?  Me llamo Adrián soy desarrollador hace 13 Años, actualmente con el stack MEARN, este perfíl lo hice para mostrar distintos ejercicios de cursos de actualización que fui y voy haciendo, además de esto la idea es tener un muestreo de trabajos.
+**Hola, ¿cómo estás? Soy desarrollador hace 13 Años, actualmente con el stack MEARN, este perfíl lo hice para mostrar distintos ejercicios de cursos de actualización que fui y voy haciendo, además de esto la idea es tener un muestreo de trabajos.
 Gracias!**
+
+
+**
+
+## Listado De Repositorios:
+
+**Curso React Actualización a Hooks:**
+01- [Counter-App](https://github.com/nairdadev/01-CR-Counter-App)
+02- [Gif-Expert-App](https://github.com/nairdadev/02-CR-Gif-Expert-App)
