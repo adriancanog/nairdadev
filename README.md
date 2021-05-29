@@ -2,7 +2,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, FLUTTER],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -14,7 +14,7 @@ const aboutMe = {
          
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      mobile: ["React Native", "Flutter"]
    },
    currentOccupation: ["Full Stack Developer -> Accion Point"],
    
@@ -26,7 +26,7 @@ const aboutMe = {
 
 **Arquitectura:**
 
- 1.  [01-TF-DIGITAL-DROPLET](https://github.com/nairdadev/01-TF-DIGITAL-DROPLET) 
+ 1.  [01-TF-DIGITAL-DROPLET](https://github.com/nairdadev/01-TF-DIGITAL-DROPLET) (Creación de Droplet con imagen limpia de Ubuntu)
  ________ 
 **Cursos que realicé:**
  ________
