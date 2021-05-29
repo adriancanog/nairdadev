@@ -1,10 +1,35 @@
- ## Bienvenido/a
-**Hola, ¿cómo estás? Este perfíl lo hice para mostrar distintos ejercicios de cursos de actualización que fui y voy haciendo, además de esto la idea es tener un muestreo de trabajos.
-Gracias!**
- 
+ ## Hola, soy Adrián.
+
+```javascript
+const aboutMe = {
+   code: [Javascript, Typescript, HTML, CSS, FLUTTER],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         PHP: ["Symfony"],
+         
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["Full Stack Developer -> Accion Point"],
+   
+};
+```
+</br></br>
 
 ## Listado De Repositorios:
 
+**Arquitectura:**
+
+ 1.  [01-TF-DIGITAL-DROPLET](https://github.com/nairdadev/01-TF-DIGITAL-DROPLET) 
+ ________ 
+**Cursos que realicé:**
+ ________
 **Curso React Actualización a Hooks:**
 
  1.  [01-CR-Counter-App](https://github.com/nairdadev/01-CR-Counter-App) 
