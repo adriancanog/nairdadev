@@ -27,6 +27,7 @@ const aboutMe = {
 **Arquitectura:**
 
  1.  [01-TF-DIGITAL-DROPLET](https://github.com/nairdadev/01-TF-DIGITAL-DROPLET) (Creación de Droplet con imagen limpia de Ubuntu)
+ 2.  [02-TF-DIGITAL-DROPLET](https://github.com/nairdadev/02-TF-DIGITAL-DROPLET) (Creación de Droplet con proyecto node deployado)
  ________ 
 **Cursos que realicé:**
  ________
