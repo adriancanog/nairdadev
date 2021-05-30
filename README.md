@@ -1,4 +1,4 @@
- ## Hola, soy Adrián -> Nairda.
+ ## Hola, soy Adrián -> nairdA.
 
 ```javascript
 const aboutMe = {
