@@ -28,7 +28,17 @@ const aboutMe = {
 
  1.  [01-TF-DIGITAL-DROPLET](https://github.com/nairdadev/01-TF-DIGITAL-DROPLET) (Creación de Droplet con imagen limpia de Ubuntu)
  2.  [02-TF-DIGITAL-DROPLET](https://github.com/nairdadev/02-TF-DIGITAL-DROPLET) (Creación de Droplet con proyecto node deployado)
- ________ 
+
+
+________ 
+
+**Node Js:**
+
+ 1.  [02-PP-Example-Node](https://github.com/nairdadev/02-PP-Example-Node) (Repositorio de prueba de deploy utilizado en [02-TF-DIGITAL-DROPLET](https://github.com/nairdadev/02-TF-DIGITAL-DROPLET) )
+
+
+
+________ 
 **Cursos que realicé:**
  ________
 **Curso React Actualización a Hooks:**
