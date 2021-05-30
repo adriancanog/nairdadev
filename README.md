@@ -40,8 +40,8 @@ ________
 
 ________ 
 **Cursos que realicé:**
- ________
-**Curso React Actualización a Hooks:**
+ 
+**1 - Curso React Actualización a Hooks:**
 
  1.  [01-CR-Counter-App](https://github.com/nairdadev/01-CR-Counter-App) 
  2.  [02-CR-Gif-Expert-App](https://github.com/nairdadev/02-CR-Gif-Expert-App) 
