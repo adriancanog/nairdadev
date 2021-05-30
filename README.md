@@ -16,7 +16,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer"],
       mobile: ["React Native", "Flutter"]
    },
-   currentOccupation: ["Full Stack Developer -> Accion Point"],
+   currentOccupation: ["Full Stack Developer en Accion Point"]
    
 };
 ```
