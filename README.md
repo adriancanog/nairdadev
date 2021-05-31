@@ -37,6 +37,10 @@ const aboutMe = {
 
 ________ 
 
+**HTML:**
+ 1.  [03-PP-SmokeText-Html-Css](https://github.com/nairdadev/03-PP-SmokeText-Html-Css) (Smoke Effect HTML-CSS)
+
+________ 
 **Node Js:**
 
  1.  [02-PP-Example-Node](https://github.com/nairdadev/02-PP-Example-Node) (Repositorio de prueba de deploy utilizado en [02-TF-DIGITAL-DROPLET](https://github.com/nairdadev/02-TF-DIGITAL-DROPLET) )
