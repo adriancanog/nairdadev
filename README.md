@@ -34,6 +34,9 @@ const aboutMe = {
  2.  [02-TF-DIGITAL-DROPLET](https://github.com/nairdadev/02-TF-DIGITAL-DROPLET) (Creación de Droplet con proyecto node deployado)
  3.  [03-TF-DIGITAL-DROPLET-DOMAIN](https://github.com/nairdadev/03-TF-DIGITAL-DROPLET-DOMAIN) (Creación de Droplet con proyecto node deployado y dominio)
 
+**Docker:**
+
+ 1.  [COMANDOS BASICOS DOCKER](https://gist.github.com/nairdadev/8e812e7816b7906d08cac8d33251fe0d)
 
 ________ 
 
