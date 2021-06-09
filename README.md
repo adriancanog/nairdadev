@@ -47,11 +47,4 @@ ________
 
 
 
-________ 
-**Cursos que realicé/realizó para actualizar conocimiento o tecnologías nuevas:**
  
-**1 - Curso React Actualización a Hooks(En Proceso):**
-
- 1.  [01-CR-Counter-App](https://github.com/nairdadev/01-CR-Counter-App) 
- 2.  [02-CR-Gif-Expert-App](https://github.com/nairdadev/02-CR-Gif-Expert-App) 
-
