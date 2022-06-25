@@ -17,7 +17,7 @@ const aboutMe = {
       mobile: ["React Native", "Flutter"],
       devOps: ["Terraform", "Azure"]
    },
-   currentOccupation: ["Full Stack Developer en Accion Point"]
+ 
    
 };
 ```
